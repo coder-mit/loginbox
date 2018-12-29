@@ -1,0 +1,98 @@
+*{
+	margin:0px;
+	padding:0px;
+	background-overlay:gray;
+}
+#container{
+	width:400px;
+	height:538px;
+	border:2px solid #1A5276;
+	margin:50px auto;
+}
+#g{
+	margin:40px 0px;
+}
+section{
+	padding:15px 5px 5px 19px;
+}
+	#user_name{
+		
+	}
+		#user_name label{
+		font-size:22px;
+		font-family:times new roman;
+		color:#1A5276;
+		}
+		#user_name input[type="text"]{
+		padding:11px 0px 11px 5px;
+		width:340px;
+		font-size:20px;
+		font-style:none;
+		font-family:halvetica;
+		}
+	#pass_word{
+		
+		}
+		#pass_word label{
+		font-size:22px;
+		font-family:times new roman;
+		color:#1A5276;
+		}
+		#pass_word input[type="password"]{
+		padding:11px 0px 11px 5px;
+		width:340px;
+		font-size:20px;
+		font-family:halvetica;
+		}
+	#FP{
+		text-align:right;
+		margin:5px 34px 2px 0px;
+		font-size:20px;
+	}
+		#FP a{
+			color:red;
+			font-family:times new roman;
+		}
+	section input[type="submit"]{
+		color:white;
+		background:#00bfff;
+		padding:10px 30px 10px 40px;
+		width:350px;
+		border:none;
+		font-family:times new roman;
+		font-size:20px;
+		text-align:center;
+	}
+	section input[type="submit"]:hover{
+		color:white;
+		background:#1e90ff;
+	}
+	p{
+		text-align:center;
+		margin-top:10px;
+		color:gray;
+		font-size:25px;
+	}
+	#google{
+		color:white;
+		background:#db3236;
+		width:350px;
+		margin:10px;
+		text-align:center;
+		font-size:20px;
+		padding:10px 10px 10px 10px;
+	}
+	#facebook{
+		color:white;
+		background:#3C5A99;
+		width:350px;
+		margin:10px;
+		text-align:center;
+		font-size:20px;
+		padding:10px 10px 10px 10px;
+	}
+	footer{
+		text-align:center;
+		margin-top:20px;
+	}
+	
